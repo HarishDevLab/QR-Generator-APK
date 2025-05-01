@@ -64,8 +64,8 @@ This Android app lets you enter any valid URL and instantly generates a QR code 
 
 Below are previews from version 1.0.0:
 
-![QR Generator - Generator Page](https://drive.google.com/file/d/1drB_WeIQtyRIukaUKaCIG6UHxs_5RIKo/view?usp=drive_link)
-![QR Generator - History Page](https://drive.google.com/file/d/1drEl0kINZloWQmgmIoA2Aoh2aivbMAPa/view?usp=drive_link)
+![QR Generator - Generator Page](Screenshots/GeneratorPage.jpg)
+![QR Generator - History Page](Screenshots/HistoryPage.jpg)
 
 ---
 
