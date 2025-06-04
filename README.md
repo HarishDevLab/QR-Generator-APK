@@ -18,6 +18,13 @@ A simple, modern Android app that generates a QR code from any URL.
 
 ---
 
+## Support This Project
+
+[Buy Me a Coffee](https://buymeacoffee.com/harishdevlab)  
+[Support via UPI](https://drive.google.com/file/d/153n7zxHg-srjOmtZEUESpnN_FlQbBKko/view?usp=sharing)
+
+---
+
 ## Description
 
 This Android app lets you enter any valid URL and instantly generates a QR code for it. Lightweight, fast, and completely offline.
